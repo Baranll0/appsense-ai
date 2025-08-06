@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions for setting up the AppSense development environment and configuring all necessary services.
 
+![Think](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhtZTJmdHA5bzdnc3FybnNrbnl4dGthbjg4MW93Z29reXYzdmpqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3QOvy7xxMwKI/giphy.gif)
+
 ## 🎯 Quick Setup
 
 ### Prerequisites Check
