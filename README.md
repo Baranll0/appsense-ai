@@ -2,6 +2,8 @@
 
 > Semantic search with LLM + RAG technology for intelligent app recommendations
 
+![Think](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhtZTJmdHA5bzdnc3FybnNrbnl4dGthbjg4MW93Z29reXYzdmpqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3QOvy7xxMwKI/giphy.gif)
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://reactjs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
