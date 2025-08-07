@@ -13,6 +13,36 @@
 
 AppSense is an intelligent app discovery platform that uses advanced AI technologies to help users find the perfect applications. With semantic search capabilities and LLM-powered recommendations, it provides a modern, user-friendly experience for discovering apps across multiple categories.
 
+## 📱 Screenshots
+
+### 🖥️ Desktop Experience
+<div align="center">
+
+**🌙 Dark Theme - Web Interface**
+![Dark Theme Web](https://i.imgur.com/Fnk5kzs.png)
+
+**☀️ Light Theme - Web Interface**  
+![Light Theme Web](https://i.imgur.com/S8XBq3V.png)
+
+**🔍 Search Results - Web Interface**
+![Search Results Web](https://i.imgur.com/VyxK2vc.png)
+
+**📊 App Details - Web Interface**
+![App Details Web](https://i.imgur.com/Rc19XJe.png)
+
+</div>
+
+### 📱 Mobile Experience
+<div align="center">
+
+**🌙 Dark Theme - Mobile Interface**
+![Dark Theme Mobile](https://i.imgur.com/wOb1nr6.png)
+
+**☀️ Light Theme - Mobile Interface**
+![Light Theme Mobile](https://i.imgur.com/A3GMscF.png)
+
+</div>
+
 ## ✨ Features
 
 - **🤖 AI-Powered Search**: LLM + RAG technology for intelligent recommendations
