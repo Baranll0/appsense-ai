@@ -35,10 +35,10 @@ AppSense is an intelligent app discovery platform that uses advanced AI technolo
 ### 📱 Mobile Experience
 <div align="center">
 
-**🌙 Dark Theme - Mobile Interface**
-![Dark Theme Mobile](https://i.imgur.com/wOb1nr6.png)
+**🌙 Dark Theme - Mobile Interface**<br>
+![Dark Theme Mobile](https://i.imgur.com/wOb1nr6.png)<br>
 
-**☀️ Light Theme - Mobile Interface**
+**☀️ Light Theme - Mobile Interface**<br>
 ![Light Theme Mobile](https://i.imgur.com/A3GMscF.png)
 
 </div>
